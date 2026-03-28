@@ -17,5 +17,7 @@ A simple Notes application with authentication, role-based access (Admin/User), 
 ## Installation
 
 cd frontend (your folder)
+
 npm install
+
 npm run dev
